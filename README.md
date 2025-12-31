@@ -1,4 +1,17 @@
-# Getting Started with Create React App
+# ⚛️ The React Quiz
+
+A high-performance quiz application designed to test React knowledge. This project focuses on advanced state management techniques.
+
+## 🛠️ Technical Highlights
+- **Advanced State:** Managed via `useReducer` to handle complex quiz transitions (Start, Active, Finished, Restart).
+- **Timer & Progress:** Includes real-time tracking of user performance and progress.
+- **Score System:** Dynamic scoring with a high-score persistence logic.
+- **Responsive Design:** Interactive hover effects and smooth transitions using CSS3.
+
+## 🚀 How to Run
+1. `npm install`
+2. `npm start`
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
