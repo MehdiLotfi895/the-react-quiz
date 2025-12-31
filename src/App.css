@@ -1,0 +1,78 @@
+*{
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+}
+#container{
+    background-color: #2a3335;
+    width:100%;
+    height:695px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#startButton{
+    transition: all 800ms;
+    -webkit-transition: all 800ms;
+    -moz-transition: all 800ms;
+    -ms-transition: all 800ms;
+    -o-transition: all 800ms;
+}
+#startButton:hover{
+    background-color:#2a3335 !important;
+    border:1px solid white !important;
+}
+.options{
+    transition: all 500ms;
+    -webkit-transition: all 500ms;
+    -moz-transition: all 500ms;
+    -ms-transition: all 500ms;
+    -o-transition: all 500ms;
+}
+.options:hover{
+    background-color:#2a3335 !important;
+    border:1px solid white !important;
+    transform: translateX(20px);
+    -webkit-transform: translateX(20px);
+    -moz-transform: translateX(20px);
+    -ms-transform: translateX(20px);
+    -o-transform: translateX(20px);
+}
+#next{
+    transition: all 800ms;
+    -webkit-transition: all 800ms;
+    -moz-transition: all 800ms;
+    -ms-transition: all 800ms;
+    -o-transition: all 800ms;
+}
+#next:hover{
+    background-color:#2a3335 !important;
+    border:1px solid white !important;
+}
+#clickedOption{
+    transform: translateX(40px);
+    -webkit-transform: translateX(40px);
+    -moz-transform: translateX(40px);
+    -ms-transform: translateX(40px);
+    -o-transform: translateX(40px);
+}
+#finish{
+    transition: all 800ms;
+    -webkit-transition: all 800ms;
+    -moz-transition: all 800ms;
+    -ms-transition: all 800ms;
+    -o-transition: all 800ms;
+}
+#finish:hover{
+    background-color:#2a3335 !important;
+    border:1px solid white !important;
+}
+#restart{
+    transition: all 800ms;
+    -webkit-transition: all 800ms;
+    -moz-transition: all 800ms;
+    -ms-transition: all 800ms;
+    -o-transition: all 800ms;
+}
+#restart:hover{
+    background-color:#2a3335 !important;
+    border:1px solid white !important;
+}
